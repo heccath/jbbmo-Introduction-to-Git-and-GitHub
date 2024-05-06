@@ -13,6 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
-update reade me
+update for coursera
 
 _© 2022 XYZ, Inc._
